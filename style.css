@@ -16,7 +16,7 @@ div:nth-child(1) {
   grid-area: yel;
 }
 div:nth-child(2) {
-  background: purple;
+  background: grey;
   grid-area: pur;
 }
 div:nth-child(3) {
